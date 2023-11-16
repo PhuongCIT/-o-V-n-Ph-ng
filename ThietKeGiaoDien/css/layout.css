@@ -1,0 +1,35 @@
+a {
+    text-decoration: none;
+}
+.a{
+    color:#8b8e96; 
+}
+.bg-footer
+{
+    background-color: #24272e;
+    color: white;
+}
+.hav{
+    list-style-type:none ;
+
+}
+.hav li a{
+    color: #8b8e96;
+}
+.nav li{
+border:1px #24272e ;
+width: 100px;
+}
+.nav li a{
+    color: #8b8e96;
+}
+.nav-link{
+    color: black;
+    font-size: 15px; 
+    font-weight: bold;
+    margin-right: 40px;
+}
+.b{
+    font-weight: bold;
+}
+

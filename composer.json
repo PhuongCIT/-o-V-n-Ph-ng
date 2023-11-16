@@ -1,0 +1,23 @@
+{
+    "name":"daovanphuong/shop-ban-dien-thoai",
+    "description": "Học lập trình website với thầy Lợi",
+    "authors": [
+        {
+            "name": "Đào Văn Phương",
+            "email": "daovanphuong010596@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\":"application/"
+        },
+        "files": [
+            "./application/Route.php",
+            "./config/database.php"
+        ]
+    },
+    "require": {
+        "illuminate/database": "^10.26",
+        "illuminate/events": "^10.26"
+    }
+}
